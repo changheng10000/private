@@ -1,0 +1,15 @@
+*.project
+*.classpath
+target/*
+.idea/
+*.iml
+.settings
+/target/
+build/
+npm*
+logs/*
+out/*
+nb-configuration.xml
+*.DS_Store
+src/main/resources/META-INF/config/*.properties
+src/main/resources/META-INF/config/noconf.remotes
